@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512513094 source:c:\users\fna_\onedrive\documentos\c\knapsack\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
